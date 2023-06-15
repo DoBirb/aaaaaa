@@ -1,0 +1,48 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_1faa7373 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:238px; background-color:#2D2913;  }
+#container_61dd425e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; max-width:1600px; background-color:#45C3B3;  }
+#container_61dd425e_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_516501ea { vertical-align: top; position:relative; display: inline-block; width:85%; min-height:184px; max-width:1000px; background:none;  }
+#container_516501ea_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:left; }
+#container_6bd68e83 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:188px; background:none;  }
+#container_6bd68e83_padding { margin: 10px; display: block;  }
+.textstyle4 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_606a5ad4 { vertical-align: top; position:relative; display: inline-block; width:67%; min-height:383px; max-width:1000px; background-color:#FFFFFF;  }
+#container_606a5ad4_padding { margin: 10px; display: block;  }
+#container_286f15fa { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:127px; background:none;  }
+#container_286f15fa_padding { margin: 10px; display: block;  }
+.textstyle7 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_30422970 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:110px; background:none;  }
+#container_30422970_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; line-height: 1.5;  }
+#container_5616e585 { vertical-align: top; position:relative; display: inline-block; width:41%; min-height:203px; background:none;  }
+#container_5616e585_padding { margin: 10px; display: block;  }
+#img_29c31724 { vertical-align: bottom; position:relative; display: inline-block; width:102%; background:none; height:auto;  }
+#container_366cb74c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:250px; background-color:#B7E3B2;  }
+#container_366cb74c_padding { margin: 10px; display: block;  }
+#container_2a63c6c8 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:150px; background:none;  }
+#container_2a63c6c8_padding { margin: 10px; display: block;  }
+#container_4466483b { vertical-align: top; position:relative; display: inline-block; width:40%; min-height:150px; background:none;  }
+#container_4466483b_padding { margin: 10px; display: block;  }
+#img_5263dfac { vertical-align: bottom; position:relative; display: inline-block; width:101%; background:none; height:auto;  }
+.textstyle9 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#444444; font-weight:bold;  }
+#container_5d26a4c5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:297px; background:none;  }
+#container_5d26a4c5_padding { margin: 10px; display: block;  }
+#container_79434e84 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:150px; background:none;  }
+#container_79434e84_padding { margin: 10px; display: block;  }
+#container_1f2ec5b6 { vertical-align: top; position:relative; display: inline-block; width:41%; min-height:150px; background:none;  }
+#container_1f2ec5b6_padding { margin: 10px; display: block;  }
+#img_74487854 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; height:auto;  }
+#button_3a4e7816 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:220px; height:40px; background-color:#45C368; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
